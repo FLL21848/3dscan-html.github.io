@@ -1,2 +1,2 @@
-# 3dscan-html.github.io
+# 3dscan-html
 Web site for viewing 3d scans
