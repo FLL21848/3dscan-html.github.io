@@ -2,3 +2,4 @@
 
 title: "Jekyll Actions Demo"
 # baseurl: "/3dscan-html"
+assets_path: "/models"
